@@ -1,0 +1,25 @@
+Add a first line 
+ Second line - backslash \
+third line - alert  - whatever it means
+\
+\+
+
+
+\\ \" >> echo_practice.txt 
+echo -e \"
+////
+\
+\
+\
+\\ count
+\ count
+\
+\" >> echo_practice.txt 
+	 4 tab
+v-tab
+\echo -e 4 line \ n +5th line - backslash \"
+	 4 tab
+v-tab
+#5\ - is for
+>
+>
