@@ -10,8 +10,8 @@ There will be all kinds of exercises with cmnder.
     <summary>So you can drive while</summary>
     Snape kills Dumledore
       
-      Yeah It's old, but i like it
-<img src="https://marriednetworth.com/wp-content/uploads/2018/05/xzibit_2466.jpeg" alt="Old_Snoop_Dogg" width="711" height="400">
+      Yeah it's old, but i like this one
+<img src="https://marriednetworth.com/wp-content/uploads/2018/05/xzibit_2466.jpeg" alt="old_snoop_dogg" width="710" height="400">
   </details>
 </details>
 
