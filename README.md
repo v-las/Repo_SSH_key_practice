@@ -17,6 +17,12 @@ N# | command | discription
 6 | git log | commit list
 6 | -la | list all 
 7 | -ma | no messege all
+8 | git show | [#commit]
+9 | git log -p | log with extra info
+10 | git restore [file] | *modified* back to last commit
+11 | git diff --staged | diff for added *staged*
+12 | restore --staged [file] | back from index *staged*
+13 | rm --cached [file] | rm from *untracked*
 
 <details>
 <summary>Yo Dawg, I heard you like spoilers</summary>
