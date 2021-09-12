@@ -5,8 +5,7 @@ There will be all kind of exercises with cmnder.
 
 - untracked - logs, temp, etc
 - tracked - files inneed
-  - modified - c
-2 | git config -hanged, but not commited
+  - modified - changed, but not commited
   - commited - fixed by git
   - staged - files added to index, prepeared to commit
 
