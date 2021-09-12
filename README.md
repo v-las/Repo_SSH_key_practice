@@ -8,7 +8,7 @@ There will be all kind of exercises with cmnder.
   - commited - fixed by git
   - staged - files added to index, prepeared to commit
 
-# | command | discription
+N# | command | discription
 :---:| --- | ---
 1 | git config --system | whole system
 2 | git config --local | repo
