@@ -21,8 +21,20 @@ N# | command | discription
 9 | git log -p | log with extra info
 10 | git restore [file] | *modified* back to last commit
 11 | git diff --staged | diff for added *staged*
-12 | restore --staged [file] | back from index *staged*
-13 | rm --cached [file] | rm from *untracked*
+12 | git restore --staged [file] | back from index *staged*
+13 | git rm --cached [file] | rm from *untracked*
+14 | git branch -d [branch] | delete fully merged br
+15 | git branch -D [branch] | delete UNmerged branch
+16 | git branch -b [branch] | new branch + redirect to it
+17 | git remote add origin git@ | bound remote and local repo
+18 | git pull/push origin master | while not config
+19 | git pull | git fetch + git merge
+20 | git push --set-upstream | + origin master
+21 | git tag [..] | lightweight
+22 | git tag -a [..] -m ".." | annotated
+23 | git push origin [..] | push tag
+24 | git push --tags | push all tags
+
 
 <details>
 <summary>Yo Dawg, I heard you like spoilers</summary>
