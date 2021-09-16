@@ -1,20 +1,23 @@
 # Terminal DRILL
+
 ### This repository is made for extra-practie my Command line (Terminal) skills.
 There will be all kind of exercises with cmnder.
 
+### git status
 - untracked - logs, temp, etc
 - tracked - files inneed
   - modified - changed, but not commited
   - commited - fixed by git
   - staged - files added to index, prepeared to commit
 
+### Cheatsheet
 N# | command | discription
 :---:| --- | ---
 1 | git config --system | whole system
-2 | git config --local | repo
-4 | git init | new empty repo
-5 | git log | commits list
-6 | git log | commit list
+2 | git config --local | repo only
+3 | git config --global | user only
+4 | git log | commits list
+5 | git log | commit list
 6 | -la | list all 
 7 | -ma | no messege all
 8 | git show | [#commit]
@@ -26,15 +29,30 @@ N# | command | discription
 14 | git branch -d [branch] | delete fully merged br
 15 | git branch -D [branch] | delete UNmerged branch
 16 | git branch -b [branch] | new branch + redirect to it
-17 | git remote add origin git@ | bound remote and local repo
-18 | git pull/push origin master | while not config
-19 | git pull | git fetch + git merge
-20 | git push --set-upstream | + origin master
-21 | git tag [..] | lightweight
-22 | git tag -a [..] -m ".." | annotated
-23 | git push origin [..] | push tag
-24 | git push --tags | push all tags
+17 | git pull/push origin master | while not config
+18 | git pull | git fetch + git merge
+19 | git push --set-upstream | + origin master
+20 | git tag [..] | lightweight
+21 | git tag -a [..] -m ".." | annotated
+22 | git push origin [..] | push tag
+23 | git push --tags | push all tags
 
+### Create new repo
+-`echo "# Postman" >> README.md`
+-`git init`
+-`git add README.md`
+-`git commit -m "first commit"`
+-`git branch -M main`
+-`git remote add origin git@github.com:v-las/Postman.git`
+-`git push -u origin main`
+
+### First time git config
+-`git config --global user.name "Your name here"`
+-`git config --global user.email "your_email@example.com"`
+-`ssh-keygen -t rsa -C "your_email@example.com"`
+-`eval 'ssh-agent -s'`
+-`ssh-add`
+-`ssh -T git@github.com`
 
 <details>
 <summary>Yo Dawg, I heard you like spoilers</summary>
