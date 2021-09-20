@@ -38,21 +38,21 @@ N# | command | discription
 23 | git push --tags | push all tags
 
 ### Create new repo
--`echo "# Postman" >> README.md`
--`git init`
--`git add README.md`
--`git commit -m "first commit"`
--`git branch -M main`
--`git remote add origin git@github.com:v-las/Postman.git`
--`git push -u origin main`
+- `echo "# Postman" >> README.md`
+- `git init`
+- `git add README.md`
+- `git commit -m "first commit"`
+- `git branch -M main`
+- `git remote add origin git@github.com:v-las/Postman.git`
+- `git push -u origin main`
 
 ### First time git config
--`git config --global user.name "Your name here"`
--`git config --global user.email "your_email@example.com"`
--`ssh-keygen -t rsa -C "your_email@example.com"`
--`eval 'ssh-agent -s'`
--`ssh-add`
--`ssh -T git@github.com`
+- `git config --global user.name "Your name here"`
+- `git config --global user.email "your_email@example.com"`
+- `ssh-keygen -t rsa -C "your_email@example.com"`
+- `eval 'ssh-agent -s'`
+- `ssh-add`
+- `ssh -T git@github.com`
 
 <details>
 <summary>Yo Dawg, I heard you like spoilers</summary>
