@@ -62,7 +62,7 @@ N# | command | discription
     <summary>So you can drive while</summary>
     Snape kills Dumledore
       
-      Yeah it's old, but i like this one
-<img src="https://marriednetworth.com/wp-content/uploads/2018/05/xzibit_2466.jpeg" alt="old_snoop_dogg" width="710" height="400">
+      Aaahh! You know this joke already, I'm so proud of you!~
+<img src="https://marriednetworth.com/wp-content/uploads/2018/05/xzibit_2466.jpeg" alt="Snoop Dogg" width="70%" height="70%">
   </details>
 </details>
