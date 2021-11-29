@@ -50,9 +50,9 @@ N# | command | discription
 - `git config --global user.name "Your name here"`
 - `git config --global user.email "your_email@example.com"`
 - `ssh-keygen -t rsa -C "your_email@example.com"`
+- `eval "$(ssh-agent -s)"`
+- `ssh-add ~/.ssh/id_rsa`
 - `clip < ~/.ssh/id_rsa.pub`
-- `eval 'ssh-agent -s'`
-- `ssh-add`
 - `ssh -T git@github.com`
 
 <details>
